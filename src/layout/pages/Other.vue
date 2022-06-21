@@ -2,7 +2,6 @@
   <div>
 
     <h1>this page is on progress~~~~~~</h1>
-    <button class="btn">Locker key<br>管理系統???</button>
     <hr>
     <span class="heart"><span class="heart-left"></span><span class="heart-right"></span></span><br>
     <input type="checkbox" name="" id="">
