@@ -1,0 +1,590 @@
+[
+  {
+    "date": "2022年6月12日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 199
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 88
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 421
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 102
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 23
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 170
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 12
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 114
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 16
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 24
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 42
+      }
+    ]
+  },
+  {
+    "date": "2022年6月11日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 284
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 56
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 95
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 31
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 22
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 22
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 6
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 86
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 16
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 28
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 40
+      }
+    ]
+  },
+  {
+    "date": "2022年6月10日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 47
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 14
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 12
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 20
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 22
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 90
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 18
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 28
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 8
+      }
+    ]
+  },
+  {
+    "date": "2022年6月9日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 40
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 5
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 10
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 31
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 128
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 12
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 28
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 12
+      }
+    ]
+  },
+  {
+    "date": "2022年6月8日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 53
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 13
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 7
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 86
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 26
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 8
+      }
+    ]
+  },
+  {
+    "date": "2022年6月7日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 23
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 10
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 28
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 17
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 10
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 5
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 138
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 28
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 2
+      }
+    ]
+  },
+  {
+    "date": "2022年6月6日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 27
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 7
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 12
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 12
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 2
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 46
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 28
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 8
+      }
+    ]
+  },
+  {
+    "date": "2022年6月5日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 189
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 126
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 375
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 94
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 20
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 35
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 18
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 112
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 16
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 24
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 12
+      }
+    ]
+  },
+  {
+    "date": "2022年6月4日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 287
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 70
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 287
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 180
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 26
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 25
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 12
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 82
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 11
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 28
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 22
+      }
+    ]
+  },
+  {
+    "date": "2022年6月3日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 236
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 64
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 106
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 72
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 21
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 48
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 82
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 22
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 26
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 14
+      }
+    ]
+  },
+  {
+    "date": "2022年6月2日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 32
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 75
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Fitness Center",
+        "Usage": 19
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 10
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 4
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 82
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 22
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 26
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 14
+      }
+    ]
+  },
+  {
+    "date": "2022年6月1日",
+    "data": [
+      {
+        "Facilities": "Indoor Pool",
+        "Usage": 103
+      },
+      {
+        "Facilities": "Kids Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Outdoor Pool",
+        "Usage": 143
+      },
+      {
+        "Facilities": "Upper Pool",
+        "Usage": 0
+      },
+      {
+        "Facilities": "Fitness",
+        "Usage": 13
+      },
+      {
+        "Facilities": "Driving Range",
+        "Usage": 19
+      },
+      {
+        "Facilities": "Putting Green",
+        "Usage": 5
+      },
+      {
+        "Facilities": "Outdoor Tennis",
+        "Usage": 44
+      },
+      {
+        "Facilities": "Multi Sports",
+        "Usage": 6
+      },
+      {
+        "Facilities": "Indoor Tennis",
+        "Usage": 22
+      },
+      {
+        "Facilities": "Mini Tennis",
+        "Usage": 24
+      }
+    ]
+  }
+]
