@@ -49,14 +49,5 @@ body {
 }
 
 
-.chart {
-  width: 400px;
-  height: 400px;
-  margin: 0 auto;
-  margin-bottom: 50px;
-  display: flex;
-  float: left;
-  opacity: 0%;
-  transition: 1s;
-}
+
 </style>
