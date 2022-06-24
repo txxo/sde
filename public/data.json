@@ -1,4 +1,54 @@
-[{
+[
+  {
+      "date":"2022年6月23日",
+    "data":[
+      {
+        "Facilities":"Indoor Pool",
+        "Usage":69
+      },
+      {
+        "Facilities":"Kids Pool",
+        "Usage":0
+      },
+      {
+        "Facilities":"Outdoor Pool",
+        "Usage":168
+      },
+      {
+        "Facilities":"Upper Pool",
+        "Usage":0
+      },
+      {
+        "Facilities":"Fitness Center",
+        "Usage":5
+      },
+      {
+        "Facilities":"Driving Range",
+        "Usage":28
+      },
+      {
+        "Facilities":"Putting Green",
+        "Usage":6
+      },
+      {
+        "Facilities":"Outdoor Tennis",
+        "Usage":102
+      },
+      {
+        "Facilities":"Multi Sports",
+        "Usage":18
+      },
+      {
+        "Facilities":"Indoor Tennis",
+        "Usage":26
+      },
+      {
+        "Facilities":"Mini Tennis",
+        "Usage":10
+      }
+    ]
+  },
+  {
     "date":"2022年6月22日",
     "data":[
       {
