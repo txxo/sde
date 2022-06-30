@@ -12,7 +12,7 @@ const router = createRouter({
         {
           path: "/chart",
           name: "chart",
-          component: () => import("@/layout/pages/UsageView.vue"),
+          component: () => import("@/layout/pages/Month.vue"),
         },
         {
           path: "other",
